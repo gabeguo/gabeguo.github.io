@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Gabe Guo"
 title_separator          : "-"
 name                     : &name "The Real Gabe Guo"
-description              : &description "personal description"
+description              : &description "Gabe Guo"
 url                      : https://gabeguo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gabeguo/gabeguo.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Gabe Guo"
   avatar           : "gabe_usa.jpg"
-  bio              : "Aspiring Happy Scientist"
+  bio              : "Aspiring Researcher"
   location         : "NYC"
   employer         :
   pubmed           :
