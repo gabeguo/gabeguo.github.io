@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello there! I am The Real Gabe Guo, an aspiring happy scientist. My research interests include: automated scientific discovery, biometrics, computer vision, robotics, and deep learning.
+Hello there! I am The Real Gabe Guo, an aspiring happy scientist. My research interests include: 3D generative AI, computational physics, robotics, representation learning, and biometrics.
 
 Background
 =====
