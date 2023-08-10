@@ -1,3 +1,4 @@
 # main links links
 main:
-  cv.md
+- title: "CV"
+  url: /cv/
