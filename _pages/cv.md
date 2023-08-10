@@ -11,49 +11,47 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Columbia University, 2024
+* Ph.D. from TBD, 2030?
 
-Work experience
+Relevant Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2022 - Present: Research Assistant
+  * Columbia University
+  * Research in 3D generative AI, computational physics, robotics, representation learning, and biometrics.
+  * Supervisor: Professor Hod Lipson (Creative Machines Lab)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* September 2021 - Present: Teaching Assistant
+  * Columbia University
+  * Teaching Computational Linear Algebra, Discrete Mathematics, Artificial Intelligence.
+  * Supervisor: Professor Tony Dear
+
+* May 2018 - May 2021: Research Assistant
+  * SUNY Buffalo
+  * Research in HCI, smart health, and biometrics.
+  * Supervisor: Professor Wenyao Xu (Embedded Sensors and Computing Lab)
+
+<!--
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+My research speaks for itself.
+-->
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  See [Google Scholar](https://scholar.google.com/citations?hl=en&user=3yn4k9IAAAAJ).
+  <ul></ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+<!--
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* May 2022 - April 2024: Student Body VP
+  * Columbia University, Undergraduate School of Engineering and Applied Science
+  * Gave out lots of free stuff to the student body. Also successfully lobbied admins for favorable policies (*e.g.*, pass-fail grading, expanded gym hours) a few times.
