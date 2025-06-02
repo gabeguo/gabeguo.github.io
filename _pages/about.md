@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello there! I am The Real Gabe Guo, an aspiring happy scientist. I am interested in designing mathematically principled machine learning algorithms, with an emphasis on efficiency. I am also interested in computational materials science.
+Hello there! I am The Real Gabe Guo, an aspiring happy scientist. I am interested in designing mathematically principled deep generative models. I am also interested in computational materials science.
+
+This summer, I am fortunate to be interning at Lawrence Livermore National Laboratory.
 
 Background
 =====
